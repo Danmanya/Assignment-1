@@ -1,0 +1,10 @@
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\bin\Debug\Converter_LbsKg.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\bin\Debug\Converter_LbsKg.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\bin\Debug\Converter_LbsKg.pdb
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\obj\Debug\Converter_LbsKg.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\obj\Debug\Converter_LbsKg.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\obj\Debug\Converter_LbsKg.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\obj\Debug\Converter_LbsKg.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\obj\Debug\Converter_LbsKg.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\obj\Debug\Converter_LbsKg.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Converter_LbsKg\Converter_LbsKg\obj\Debug\Converter_LbsKg.pdb
