@@ -1,0 +1,10 @@
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\bin\Debug\Statistics_Calc.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\bin\Debug\Statistics_Calc.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\bin\Debug\Statistics_Calc.pdb
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\obj\Debug\Statistics_Calc.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\obj\Debug\Statistics_Calc.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\obj\Debug\Statistics_Calc.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\obj\Debug\Statistics_Calc.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\obj\Debug\Statistics_Calc.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\obj\Debug\Statistics_Calc.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Statistics_Calc\Statistics_Calc\obj\Debug\Statistics_Calc.pdb
