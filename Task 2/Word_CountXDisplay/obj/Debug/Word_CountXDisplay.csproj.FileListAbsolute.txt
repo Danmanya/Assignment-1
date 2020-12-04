@@ -1,0 +1,10 @@
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\bin\Debug\Word_CountXDisplay.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\bin\Debug\Word_CountXDisplay.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\bin\Debug\Word_CountXDisplay.pdb
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\obj\Debug\Word_CountXDisplay.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\obj\Debug\Word_CountXDisplay.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\obj\Debug\Word_CountXDisplay.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\obj\Debug\Word_CountXDisplay.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\obj\Debug\Word_CountXDisplay.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\obj\Debug\Word_CountXDisplay.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Word_CountXDisplay\Word_CountXDisplay\obj\Debug\Word_CountXDisplay.pdb
