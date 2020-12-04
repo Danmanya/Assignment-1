@@ -1,0 +1,10 @@
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\bin\Debug\Calculator_BMI.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\bin\Debug\Calculator_BMI.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\bin\Debug\Calculator_BMI.pdb
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\obj\Debug\Calculator_BMI.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\obj\Debug\Calculator_BMI.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\obj\Debug\Calculator_BMI.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\obj\Debug\Calculator_BMI.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\obj\Debug\Calculator_BMI.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\obj\Debug\Calculator_BMI.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\Calculator_BMI\Calculator_BMI\obj\Debug\Calculator_BMI.pdb
