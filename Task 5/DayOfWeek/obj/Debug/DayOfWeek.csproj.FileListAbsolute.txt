@@ -1,0 +1,10 @@
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csprojAssemblyReference.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.Form1.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.Properties.Resources.resources
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.GenerateResource.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\Maikyau\Documents\Visual Studio Codes\Maikyau Israel - CEN 414\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.pdb
